@@ -1,0 +1,30 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Android
+.gradle/
+local.properties
+*.iml
+
+# iOS
+Pods/
+Podfile.lock
+DerivedData/
+
+# VS Code / IntelliJ
+.idea/
+.vscode/
+
+# Python backend
+__pycache__/
+venv/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
